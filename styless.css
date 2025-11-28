@@ -1,7 +1,25 @@
+body{
+    background-color: #cadbc8;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
 .titulo-principal{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*Buscar fuente robusta xd esta no me gusto*/
     font-size: 38px;
     font-weight: bold;
     color: #9c9583;
     text-align: center;
+}
+.Subti{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    color: #9c9583;
+}
+.IMGAlpina{
+    display: block;
+    margin: 0 auto;
+    width: auto;
 }
