@@ -11,6 +11,8 @@ Puedes ingresar a la pagina en linea para verlo https://masuelg-pineda.github.io
 
 Para desplegarlo clona el proyecto 
     git clone https://github.com/Masuelg-Pineda/Proyecto-pagina-ventademotos.git
+    o en git hub
+    gh repo clone Masuelg-Pineda/Proyecto-pagina-ventademotos
 
         Si tienes sugerencias para mejorarlo no dudes en modificarlo ;) me ayudaras mucho a mi y a la comundad que quiera comorar/vender vehiculos usados
 
